@@ -23,8 +23,8 @@ generic.search 搜索
 generic.leave 离开
 generic.default 默认
 generic.submit 提交
-generic.create 创建
-generic.random 随机
+generic.create 创造
+generic.random 随机的
 generic.failed 失败
 generic.success 成功！
 generic.name 用户名
